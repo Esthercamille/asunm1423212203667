@@ -1,1 +1,3 @@
-# asunm1423212203667
+def Hello_world():
+print("hello world")
+hello_world()
